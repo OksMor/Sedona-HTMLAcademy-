@@ -1,2 +1,3 @@
-# Sadona-HTMLAcademy-
-Учебный макет взят из базового курса по HTML+CSS (2016) от HTMLAcademy 
+Адаптивная (резина 768px-1200px) блочная модель на 'flex'
+
+Макет - Sedona от HTML Academy (https://htmlacademy.ru)
